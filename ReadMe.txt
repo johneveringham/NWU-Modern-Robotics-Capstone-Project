@@ -12,8 +12,14 @@ I implemented sigularity avoidance through a special psuedo inverse function in 
 
 detailed comments are in the code. 
 
+Simulation is visualized using Coppelia Sim Software.
+
 Results:
 #=====================================================
 My new task was not as different from the normal task as I wanted. I had issues with the robot going out of 
 control when moving the cube further distances. I would like to investigate this further and potentially try the 
 robot throwing the cube problem. 
+
+#=====================================================
+Modern Robotics Wiki: http://hades.mech.northwestern.edu/index.php/Modern_Robotics
+Copellia Sim: https://www.coppeliarobotics.com/downloads
