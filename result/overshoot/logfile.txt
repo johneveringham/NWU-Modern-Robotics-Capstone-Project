@@ -1,0 +1,6 @@
+2020-09-20 15:10:16.865935
+Generating Reference Trajectory
+Generating CSV Animation
+Writing Error Plot
+K: 0.75 Ki: 0.0
+Done
